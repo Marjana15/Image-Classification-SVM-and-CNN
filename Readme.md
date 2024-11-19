@@ -45,7 +45,7 @@ This repository demonstrates a workflow for image classification using **SVM (Su
 ## Example Results
 After training, the models predict whether an image is of a **Cat** or **Dog**, visualizing the predictions.
 [![image.png](https://i.postimg.cc/ZR21F2mT/image.png)](https://postimg.cc/BL5YJhty)
-[![image.png](https://i.postimg.cc/MT8JrvkD/image.png)](https://postimg.cc/941kDXQR)
+[![image.png](https://i.postimg.cc/XJ4jb14D/image.png)](https://postimg.cc/LqQKkTqz)
 [![image.png](https://i.postimg.cc/7bvmfyk2/image.png)](https://postimg.cc/y3PFbtW1)
 ---
 
